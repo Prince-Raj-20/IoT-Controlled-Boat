@@ -75,10 +75,10 @@ An Internet of Things (IoT) project demonstrating the creation of a remotely con
 
 | File Name       | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| iot_boat_control.ino   | Arduino source code to control the boat via the Blynk app and ESP32.       |
-| circuit_diagram.png    | Circuit schematic showing all modules and wiring.                          |
+| IoT_Code_.ino   | Arduino source code to control the boat via the Blynk app and ESP32.       |
+| Circuit_Diagram.png    | Circuit schematic showing all modules and wiring.                          |
 | README.md              | Project overview, setup instructions, components used, and credits.        |
-| LICENSE                | License file (CC BY-NC-ND 4.0) restricting reuse/modification.             |
+| **LICENSE**                | License file restricting reuse/modification (***Explicit Written Permission Only***)         |
 
 ## ▶ Getting Started
 
@@ -113,6 +113,7 @@ GitHub: Prince-Raj-20
 
 ## 📜 License
 
-This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This project is shared publicly for reference only. All rights are reserved by the original authors. No reuse, redistribution, or modification is permitted without explicit permission.
+Please see LICENSE File for furthur details.
 
 ---
